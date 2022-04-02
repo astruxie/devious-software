@@ -47,3 +47,5 @@ def get_all_following(client, user_id):
             break
         time.sleep(0.5)
     return following
+
+def refresh()
